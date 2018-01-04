@@ -15,14 +15,15 @@ I must admit not everything was O.K. at the time. My grades were not that great 
 
 In my second semester I had a class that would define a lot of things later in my life. Programming fundamentals was a bit weird to me. Everything was quite abstract and I was more focused in the hardware side of things in a computer, but after a few lessons in how computers follow commands and how it would shape the future of communication I started to fall in love with these concepts. It was a that time when I saw a few lines that are so simple yet they embrace what thousands of people do for a living and define careers and lives, these lines where written in java for me and although each software developer begins their own way it always looks similar to this:
 
-```
-public class HelloWorld {
-
-public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }  
-}
-```
+ ```
+ ``public class HelloWorld {
+ 
+ ``public static void main(String[] args) {
+ 
+         ``System.out.println("Hello World!");
+    `` }
+ 	 ``}
+ ```
 
 The phrase “Hello World!” was shown in the console of the computer after compiling. It was my first program and the first step into doing something I love.
 
