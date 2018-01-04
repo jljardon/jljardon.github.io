@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Simple coding tips and scripts
 header-img: img/home-bg.png
 email: jljardon.c@gmail.com
 copyright_name: jljardon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A few tips from a hard-learner
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jljardon
